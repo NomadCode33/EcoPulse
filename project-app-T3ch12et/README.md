@@ -3,4 +3,4 @@ This repo contains R code for generating an interactive application as part of t
 for the _Technical Foundations of Informatics_ course at the UW iSchool.
 
 **Link to Project**: https://mecha.shinyapps.io/project-app-T3ch12et/
-<img src="/Climate%20Change%20Website.gif" img alt = "New Orleans Flood Risk Website"/>
+<img src="https://github.com/T3ch12et/git-lfs/blob/main/Climate%20Change%20Website.gif" img alt = "Climate Change Website"/>
