@@ -1,6 +1,5 @@
 # Climate Change Report
-This repo contains R code for generating a data analysis report as part of the final project
-for the _Technical Foundations of Informatics_ course at the UW iSchool.
+(Insert 1-2 sentence description of what the report is)
 
 **Link to Project**: https://t3ch12et.github.io/Climate-Change/project-report-saejinm/
 
@@ -8,12 +7,11 @@ for the _Technical Foundations of Informatics_ course at the UW iSchool.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** RStudio, R, HTML, CSS, JavaScript, 
 
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
 ## Optimizations
-*(optional)*
 
 You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
 
