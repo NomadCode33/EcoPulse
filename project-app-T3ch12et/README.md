@@ -1,6 +1,5 @@
 # Climate Change Website App 
-This repo contains R code for generating an interactive application as part of the final project
-for the _Technical Foundations of Informatics_ course at the UW iSchool.
+The project involved creating an interactive website using RStudio and Shiny Apps to allow users to engage with climate change data. This website provides educational insights through various tabs featuring interactive visualizations, data analysis, and explanations on different aspects of climate change.
 
 **Link to Project**: https://mecha.shinyapps.io/project-app-T3ch12et/
 
@@ -80,11 +79,13 @@ In summary, this code initializes and runs a Shiny app by loading the necessary 
 
 ## Optimizations
 
+Exploring the website, several optimizations stand out that enhance user engagement and data comprehension. The app’s layout is well-organized, with each tab focusing on a specific aspect of climate change, making navigation intuitive. The use of interactive elements like radio buttons, select inputs, and sliders ensures users can tailor the data visualizations to their interests. Styling with the "cyborg" theme from shinythemes gives the app a sleek, modern look, while incorporating images and hyperlinks enriches the educational content. Libraries such as ggplot2 and leaflet were effectively utilized to create visually appealing and informative plots. These thoughtful design choices collectively elevate the user experience and educational value of the app.
 
+While the app is robust and informative, there are areas where further enhancements could elevate its impact. Adding more real-time data integration would make the visualizations more current and relevant. Enhancing the mobile responsiveness of the app would ensure a seamless user experience across devices. Implementing more advanced data filtering options could allow users to dive deeper into specific data subsets, providing a more personalized exploration. Additionally, incorporating user feedback mechanisms could help identify areas for further improvement and make the app more user-centric. These optimizations would not only refine the app's functionality but also increase its appeal and usability.
 
 ## Lessons Learned:
 
-
+Creating the interactive website deepened my understanding of climate change and honed my technical skills. I learned the importance of designing intuitive user interfaces and the intricacies of fetching and integrating data from diverse sources. This project underscored the power of interactive visualizations in making complex data accessible and engaging for users. Moreover, it highlighted the necessity of clear communication and meticulous attention to detail, from coding to final presentation.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
