@@ -5,6 +5,6 @@ Our comprehensive findings are documented in a detailed report and an accessible
 
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** https://github.com/NomadCode33
 
-**Main Directory:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Directory:** https://github.com/NomadCode33/GIS-Data-Science-Portfolio
