@@ -3,7 +3,7 @@ The project involved creating an interactive website using RStudio and Shiny App
 
 **Link to Project**: https://mecha.shinyapps.io/project-app-T3ch12et/
 
-<img src="https://github.com/T3ch12et/git-lfs/blob/main/Climate%20Change%20Website.gif" img alt = "Climate Change Website GIF"/>
+<img src="https://github.com/NomadCode33/git-lfs/blob/main/Climate%20Change%20Website.gif" img alt = "Climate Change Website GIF"/>
 
 ## How It's Made:
 
@@ -90,15 +90,15 @@ Creating the interactive website deepened my understanding of climate change and
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
+**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
 
-**Sumner Boundary Map:** [Sumner Boundary Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Sumner%20Boundary%20Map)
+**Sumner Boundary Map:** [Sumner Boundary Map](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Sumner%20Boundary%20Map)
 
-**Bothell Bus Base North:** [Bothell Bus Base North](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Bothell%20Bus%20Base%20North)
+**Bothell Bus Base North:** [Bothell Bus Base North](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Bothell%20Bus%20Base%20North)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** https://github.com/NomadCode33
 
-**Climate Change Repository:** [Climate Change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change)
+**Climate Change Repository:** [Climate Change](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/Climate-Change)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** https://github.com/NomadCode33/GIS-Data-Science-Portfolio
