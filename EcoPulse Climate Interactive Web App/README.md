@@ -1,5 +1,5 @@
-# Climate Change Website App 
-The project involved creating an interactive website using RStudio and Shiny Apps to allow users to engage with climate change data. This website provides educational insights through various tabs featuring interactive visualizations, data analysis, and explanations on different aspects of climate change.
+# EcoPulse Climate Interactive Web App 
+An interactive website developed using RStudio and Shiny Apps to engage users with climate change data through an educational and accessible platform. Featuring multiple tabs with interactive visualizations, in-depth data analysis, and clear explanations, the site empowers users to explore key aspects of climate change and understand its global impacts.
 
 **Link to Project**: https://mecha.shinyapps.io/project-app-T3ch12et/
 
@@ -90,15 +90,15 @@ Creating the interactive website deepened my understanding of climate change and
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
+**Terazon:** [Terazon: Visualizing Land Cover Change in Rondonia](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/Terazon)
 
-**Sumner Boundary Map:** [Sumner Boundary Map](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Sumner%20Boundary%20Map)
+**Sumner Jurisdiction Boundary:** [Sumner Jurisdiction Boundary](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/Sumner%20Jurisdiction%20Boundary)
 
-**Bothell Bus Base North:** [Bothell Bus Base North](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Bothell%20Bus%20Base%20North)
+**North Bothell Bus Base:** [North Bothell Bus Base](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/North%20Bothell%20Bus%20Base)
 
 ## Repositories
-**Profile:** https://github.com/NomadCode33
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Climate Change Repository:** [Climate Change](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/Climate-Change)
+**EcoPulse Repository:** [EcoPulse](https://github.com/NomadCode33/NomadGeo/tree/main/EcoPulse)
 
-**Main Repository:** https://github.com/NomadCode33/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
